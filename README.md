@@ -20,7 +20,7 @@
   <code><img height="40" src="https://img.icons8.com/?size=96&id=7AFcZ2zirX6Y&format=png"></code>
   <code><img height="40" src="https://img.icons8.com/?size=128&id=b5Z5U3tVLQu5&format=png"></code>
   
-  [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://i.pinimg.com/originals/cf/75/0b/cf750ba160c4f1f8aef6f6c3df323541.gif)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+  [![Stats](https://i0.wp.com/www.frogx3.com/wp-content/uploads/2016/11/5-Wacky-Funny-GIFs-Relatable-GraphicDesigners.gif?resize=600%2C450&ssl=1)]&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   
   
   ##### I am currently aiming to reach ELO 1800 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
