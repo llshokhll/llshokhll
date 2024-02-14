@@ -12,10 +12,10 @@
   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/llshokhll/)  &nbsp;
   
   #### 👨🏻‍💻 Languages and Tools <br />
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-  <code><img height="40" src="https://img.icons8.com/?size=96&id=pCvIfmctRaY8&format=png"></code>
+  <code><img height="40" src="https://img.icons8.com/?size=128&id=2T6TKY6whzgV&format=png"></code>
+  <code><img height="40" src="https://img.icons8.com/?size=64&id=uLDrtp8o8zTG&format=png&color=1A6DFF,C822FF"></code>
+  <code><img height="40" src="https://img.icons8.com/?size=64&id=FRRACRKRsw2s&format=png&color=1A6DFF,C822FF"></code>
+  <code><img height="40" src="https://img.icons8.com/?size=160&id=G4QCXBD8TD47&format=png"></code>
   <code><img height="40" src="https://img.icons8.com/?size=96&id=7AFcZ2zirX6Y&format=png"></code>
   <code><img height="40" src="https://img.icons8.com/?size=128&id=b5Z5U3tVLQu5&format=png"></code>
   
