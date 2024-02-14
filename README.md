@@ -9,7 +9,8 @@
   - ⚡ Currently, I have made 17 projects as a portfolio
   
   #### 📫 How to reach me:
-  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/llshokhll/)  &nbsp;
+  [<img src="https://img.icons8.com/?size=128&id=119026&format=png" width="3.5%"/>](https://www.instagram.com/llshokhll/)  &nbsp;
+  [<img src="https://img.icons8.com/?size=160&id=112159&format=png" width="3.5%"/>](https://t.me/llshokhll)  &nbsp;
   
   #### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://img.icons8.com/?size=128&id=2T6TKY6whzgV&format=png"></code>
