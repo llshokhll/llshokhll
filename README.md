@@ -16,6 +16,8 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
   <code><img height="40" src="https://img.icons8.com/?size=96&id=pCvIfmctRaY8&format=png"></code>
+  <code><img height="40" src="https://img.icons8.com/?size=96&id=7AFcZ2zirX6Y&format=png"></code>
+  <code><img height="40" src="https://img.icons8.com/?size=128&id=b5Z5U3tVLQu5&format=png"></code>
   
   [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
   
